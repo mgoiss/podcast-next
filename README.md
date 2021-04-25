@@ -8,7 +8,7 @@ Podcast Nex é uma aplicação web construída durante a 5ª edição da **Next 
 A aplicação consiste em um site web de podcast, onde além do podcast existe noticias a respeito do mesmo.
 
 ## Layout web
-Construção em Andamento
+<img src="https://user-images.githubusercontent.com/51368865/115997140-7aef4a00-a5b8-11eb-9d5f-f8ef2c90b27f.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/51368865/115997142-7b87e080-a5b8-11eb-88e0-76e56f361960.png" width="90%"></img> 
 
 # Tecnologias utilizadas
 ## Back end
